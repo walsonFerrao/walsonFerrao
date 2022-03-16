@@ -1,8 +1,8 @@
 ### Hi there 👋
-<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.7/css/all.css">
+
 <h2>About Me:</h2>
 
-<p>
+<p >
   Hello. I am Walson Ferrao from Mangalore, India. I am a passionate and creative web developer.
   I enjoy creating fully functional web applications. I thrive to improve by working on projects where I can Implement my skills.
 </p>
@@ -36,6 +36,8 @@ I am skilled in HTML, CSS, Javascript,ReactJS,Redux, React Router, Node, Mongodb
   <div/>
 
 
+	
+	
 
 
 
@@ -48,17 +50,5 @@ I am skilled in HTML, CSS, Javascript,ReactJS,Redux, React Router, Node, Mongodb
 
 
 
-<!--
-**walsonFerrao/walsonFerrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
