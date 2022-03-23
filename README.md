@@ -21,19 +21,19 @@ Portfolio:(https://walson-portfolio.netlify.app/)
 
 <div class="aaaa">
   
-  <img src="https://img.icons8.com/ios-filled/250/000000/html-5--v1.png" width="150" height="150" hspace="20"/>
+  <img src="https://img.icons8.com/ios-filled/250/000000/html-5--v1.png" width="80" height="80" hspace="20"/>
 	
-<img src="https://img.icons8.com/ios-filled/250/000000/css3.png" width="150" height="150" hspace="20"/>
-  <img src="https://img.icons8.com/color/240/000000/javascript--v1.png" width="150" height="150" hspace="20"/>
+<img src="https://img.icons8.com/ios-filled/250/000000/css3.png" width="80" height="80" hspace="20"/>
+  <img src="https://img.icons8.com/color/240/000000/javascript--v1.png" width="80" height="80" hspace="20"/>
  
-  <img src="https://img.icons8.com/ios-filled/250/000000/react-native.png" width="150" height="150" hspace="20"/>
+  <img src="https://img.icons8.com/ios-filled/250/000000/react-native.png" width="80" height="80" hspace="20"/>
 	<br/>
   <br/>
-  <img src="https://img.icons8.com/ios-filled/250/000000/redux.png" width="150" height="150" hspace="20"/>
+  <img src="https://img.icons8.com/ios-filled/250/000000/redux.png" width="80" height="80" hspace="20"/>
   
-  <img src="https://img.icons8.com/color/240/000000/nodejs.png" width="150" height="150" hspace="20"/>
-  <img src="https://img.icons8.com/color/240/000000/mongodb.png" width="150" height="150" hspace="20"/>
- <img src="https://img.icons8.com/color/240/000000/express.png" width="150" height="150" hspace="20"/>
+  <img src="https://img.icons8.com/color/240/000000/nodejs.png" width="80" height="80" hspace="20"/>
+  <img src="https://img.icons8.com/color/240/000000/mongodb.png" width="80" height="80" hspace="20"/>
+ <img src="https://img.icons8.com/color/240/000000/express.png" width="80" height="80" hspace="20"/>
  
   
   
