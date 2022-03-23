@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there  welcome to my github👋
 
 <h2>About Me:</h2>
 
@@ -11,6 +11,11 @@ I am skilled in HTML, CSS, Javascript,ReactJS,Redux, React Router, Node, Mongodb
 </p>
 <p>Apart from coding I like Travelling🏕️, Reading books 📕 and 3D designing🏂</p>
 
+
+<h2>Contact Me:</h2>
+Linkedin:(www.linkedin.com/in/walson-ferrao-77ba76230)
+<br/>
+Portfolio:(https://walson-portfolio.netlify.app/)
 
 <h2>My Skills:</h2>
 
