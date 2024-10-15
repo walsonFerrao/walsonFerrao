@@ -7,7 +7,7 @@
   I enjoy creating fully functional web applications. I thrive to improve by working on projects where I can Implement my skills.
 </p>
 <p>
-I am skilled in HTML, CSS, Javascript,ReactJS,Redux, React Router, Node, Mongodb, Express. I am good in data structure and algorithms.
+I am skilled in HTML, CSS, Javascript,ReactJS,React Native,Redux, React Router, Node, Mongodb, Express. I am good in data structure and algorithms.
 </p>
 <p>Apart from coding I like Travelling🏕️, Reading books 📕 and 3D designing🏂</p>
 
