@@ -34,7 +34,7 @@ I am skilled in React Native, HTML, CSS, Javascript,ReactJS, Redux, React Router
 <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="80" height="80" hspace="20"/>
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="80" height="80" hspace="20"/> 
  
-  <img src="https://img.icons8.com/ios-filled/250/000000/react-native.png" width="80" height="80" hspace="20"/>
+  <img src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" width="80" height="80" hspace="20"/>
 	<br/>
   <br/>
   <img src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000" width="80" height="80" hspace="20"/>
