@@ -17,7 +17,7 @@ I am skilled in HTML, CSS, Javascript,ReactJS,React Native,Redux, React Router, 
 <br/>
 
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://walson-portfolio.netlify.app/](https://67500803865d2e0ae4505c36--sprightly-sunburst-1945d8.netlify.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://walsonportfolio.netlify.app/](https://67500803865d2e0ae4505c36--sprightly-sunburst-1945d8.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walson-ferrao-77ba76230/)
 
 <br/>
