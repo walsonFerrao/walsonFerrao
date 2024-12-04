@@ -3,11 +3,12 @@
 <h2>About Me:</h2>
 
 <p >
-  Hello. I am Walson Ferrao from Mangalore, India. I am a passionate and creative web developer.
-  I enjoy creating fully functional web applications. I thrive to improve by working on projects where I can Implement my skills.
+ Hi, I'm Walson Ferrao, a web and React Native developer based in Mangalore, India. I specialize in building applications with clean, intuitive, and visually appealing interfaces that deliver exceptional user experiences. I have a passion for exploring new technologies and concepts in web and React Native development, constantly striving to bring creative ideas to life in my projects.
+
+I look forward to collaborating with industry experts, learning from their expertise, and continually evolving as a developer.
 </p>
 <p>
-I am skilled in HTML, CSS, Javascript,ReactJS,React Native,Redux, React Router, Node, Mongodb, Express. I am good in data structure and algorithms.
+I am skilled in React Native, HTML, CSS, Javascript,ReactJS, Redux, React Router, Node, Express. I am good in data structure and algorithms.
 </p>
 <p>Apart from coding I like Travelling🏕️, Reading books 📕 and 3D designing🏂</p>
 
