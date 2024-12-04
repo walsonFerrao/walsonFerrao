@@ -28,7 +28,7 @@ I am skilled in React Native, HTML, CSS, Javascript,ReactJS, Redux, React Router
 <h2>My Skills:</h2>
 
 <div class="aaaa">
-   <img src="https://img.icons8.com/?size=100&id=58811&format=png&color=000000" width="80" height="80" hspace="20"/>
+   <img src="[https://img.icons8.com/?size=100&id=58811&format=png&color=000000](https://img.icons8.com/?size=100&id=123603&format=png&color=000000)" width="80" height="80" hspace="20"/>
   <img src="https://img.icons8.com/ios-filled/250/000000/html-5--v1.png" width="80" height="80" hspace="20"/>
 	
 <img src="https://img.icons8.com/ios-filled/250/000000/css3.png" width="80" height="80" hspace="20"/>
